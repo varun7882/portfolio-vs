@@ -15,7 +15,7 @@ export default function IntroTab() {
             <Col md={9} className="textProp">
               
                     This is my description. Some guy trying to do some things.
-                    High in motivation so much so that is borders on unrealism and naivety.
+                    He who wants to do so much so that is borders on unrealism and naivety.
                     This application is made in react. Waiting for my wife to give me UI for this. 
                     Meanwhile I will be working on some other react exercise to understand stateManagement 
                     in react.
