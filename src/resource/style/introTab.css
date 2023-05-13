@@ -1,0 +1,9 @@
+.profileimg {
+    height:300px;
+    width:auto;
+}
+.textProp {
+    padding-top: 100px;
+    text-align: justify;
+    text-justify: inter-word;
+}
