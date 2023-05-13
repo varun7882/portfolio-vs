@@ -13,7 +13,6 @@ export default function IntroTab() {
                   <img src={profileImage} alt="this is me" className="profileimg"></img>
             </Col>
             <Col md={9} className="textProp">
-              
                     This is me. Some guy trying to do some things.
                     He who wants to do so much so that is borders on unrealism and naivety.
                     This application is made in react. Waiting for my wife to give me UI for this. 
